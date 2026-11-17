@@ -1,0 +1,6 @@
+{
+  "name": "SILENI",
+  "description": "Sistem Penilaian Kebersihan Terintegrasi untuk Disperindag Kabupaten Sidoarjo dengan QR Code ruangan, monitoring 3 petugas kebersihan, dan insight analitik AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

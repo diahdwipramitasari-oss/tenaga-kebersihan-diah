@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SILENI</string>
+    <string name="app_full_title">SILENI — Disperindag Sidoarjo</string>
+    <string name="app_subtitle">Sistem Penilaian Kebersihan Terintegrasi</string>
+    <string name="agency_name">Dinas Perindustrian &amp; Perdagangan Kab. Sidoarjo</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_officers">Petugas</string>
+    <string name="nav_qr_manager">QR Ruangan</string>
+    <string name="nav_feedback">Penilaian</string>
+    <string name="nav_analytics">Analitik AI</string>
+    <string name="ai_firebase_notice">Mode Sampel Lokal: Fitur AI generatif (Gemini) memerlukan Firebase. Saat ini ringkasan dan rekomendasi menampilkan hasil analisis sampel lokal.</string>
+    <string name="feedback_success_title">Terima Kasih Atas Penilaian Anda!</string>
+    <string name="feedback_success_subtitle">Masukan Anda langsung tercatat di dashboard pemantauan Disperindag Kabupaten Sidoarjo.</string>
+</resources>
